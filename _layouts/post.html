@@ -12,6 +12,7 @@ layout: base
         {% assign gh_split =  page.gh-repo | split:'/'  %}
         {% assign gh_user =  gh_split[0]  %}
         {% assign gh_repo =  gh_split[1]  %}
+        {% assign gh_repo =  gh_split[2]  %}
 
         <div id="header-gh-btns">
           {% if page.gh-badge.size > 0 %}
