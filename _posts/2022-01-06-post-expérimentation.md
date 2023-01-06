@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Post de test & d'expérimentation
-subtitle: Ne cherchez ni cohérence, ni travaux artistique, c'est juste le bazar
+subtitle: Vu que mon PC était en panne, je n'avais pas accès à mes travaux, donc j'ai juste mis des images trouvés sur Internet pour valider la compétences
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+## Important
+Vu que mon PC était en panne, je n'avais pas accès à mes travaux, donc j'ai juste mis des images trouvés sur Internet pour valider les compétences
+
 ## Lien
 Expérimentation/Test lien _[ici](https://jcw87.github.io/c2-sans-fight/)_
 
