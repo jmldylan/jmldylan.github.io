@@ -7,6 +7,8 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+...
+
 ## Important
 Vu que mon PC était en panne, je n'avais pas accès à mes travaux, donc j'ai juste mis des images trouvés sur Internet pour valider les compétences
 
