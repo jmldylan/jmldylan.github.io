@@ -2,8 +2,8 @@
 layout: post
 title: Post de test & d'expérimentation
 subtitle: Vu que mon PC était en panne, je n'avais pas accès à mes travaux, donc j'ai juste mis des images trouvés sur Internet pour valider la compétences
-cover-img: /assets/img/avatar-icon.png
-thumbnail-img: /assets/img/avatar-icon.png
+cover-img: /assets/img/pdp.png
+thumbnail-img: /assets/img/pdp.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -26,15 +26,5 @@ Expérimentation/Test image
 Expérimentation/Test texte
 _"Le courage n'est pas l'absence de peur, mais la capacité de vaincre ce qui fait peur."_ - **Nelson Mandela**
 
-## Autres
-
-Un tableau inutile que j'ai copié collé d'un autre post. J'ai changé les mots à l'intérieur mais il est toujours autant inutile.
-
-| Abréviation | de... | au pire, cherchez ? |
-| :------ |:--- | :--- |
-| DB | OP | SNK |
-| MHA | FT | NNT |
-| TR | MP100 | OPM |
-| KNY | JJBA | PKMN |
 
 ![David Goodenough](https://media.tenor.com/Gwjwa1pWE-oAAAAd/jdg-joueur-du-grenier.gif)
