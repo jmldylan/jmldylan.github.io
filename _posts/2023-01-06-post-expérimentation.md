@@ -2,8 +2,8 @@
 layout: post
 title: Post de test & d'expérimentation
 subtitle: Vu que mon PC était en panne, je n'avais pas accès à mes travaux, donc j'ai juste mis des images trouvés sur Internet pour valider la compétences
-cover-img:
-thumbnail-img:
+cover-img: /assets/img/avatar-icon.png
+thumbnail-img: /assets/img/avatar-icon.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
